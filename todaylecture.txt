@@ -1,0 +1,19 @@
+today lecture
+1. open source
+2. software for network monitoring
+3. software for packet sniffing
+4. cloud computing
+5. microservice archeticture
+6.devops and CI/CD
+7.artificial intelligence
+8.lowcode and no code
+9.blockchain
+
+what is open source
+-in production and development, open source is philosophy , ort a methodology  that promotes free redistribution and access to a producty's design or ideas and implementation details
+-open as in free
+-open as in acess
+-open as in overtime
+-open as in not closed
+-open as in reuse and change
+-open as in any place and for anyone
